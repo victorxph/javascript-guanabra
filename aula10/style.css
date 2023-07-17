@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    height: 95vh;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+
+div#area {
+    background-color: green;
+    color: white;
+    font: normal 20pt Arial;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+
+/* :hover#area{
+    background-color: darkgreen;
+} */
